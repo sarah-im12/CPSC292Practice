@@ -9,4 +9,11 @@ output: html_notebook
 # Loading required libraries
 library(dplyr)
 ```
+```{r}
+function1 <- function (x){
+  b <- 4*x^4 - sin(3*x) +12
+  return(b)
+}
 
+
+```
