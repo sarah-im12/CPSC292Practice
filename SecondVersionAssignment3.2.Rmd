@@ -1,0 +1,12 @@
+---
+title: "Second version of assignment 3.2 "
+author: "Sarah Im"
+output: html_notebook
+---
+
+
+```{r}
+# Loading required libraries
+library(dplyr)
+```
+
