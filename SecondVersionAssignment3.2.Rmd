@@ -17,3 +17,14 @@ function1 <- function (x){
 
 
 ```
+
+
+```{r}
+function1 <- function (x){
+  b <- 4*x^4 - sin(3*x) +12
+  return(b)
+}
+function1(runif(10))
+myresult1 <- function1(runif(10))
+
+```
